@@ -1,1 +1,1 @@
-This is a test file to verify repository permissions.
+VGhpcyBpcyBhIHRlc3QgZmlsZSB0byB2ZXJpZnkgcmVwb3NpdG9yeSBwZXJtaXNzaW9ucy4=
